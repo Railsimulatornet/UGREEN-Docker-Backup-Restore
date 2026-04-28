@@ -1,0 +1,5 @@
+# UGREEN Docker Backup exclude paths
+# One path per line. Lines starting with # are ignored.
+# /volume2/docker/lancache/monolithic/data_cache
+# /volume2/docker/embyserver/emby/config/cache
+# /volume2/docker/embyserver/emby/config/logs

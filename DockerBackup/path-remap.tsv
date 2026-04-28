@@ -1,0 +1,3 @@
+# Optional path remapping for restore.
+# Format: source_path<TAB>target_path
+# /volume3/dockersich	/volume2/DockerBackup/dockersich
